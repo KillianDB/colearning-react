@@ -1,4 +1,4 @@
-function post() {
+function Post() {
     return (
         <section>
             <h2>Notícia de hoje</h2>
@@ -7,4 +7,4 @@ function post() {
     );
 }
 
-export default post;
+export default Post;
